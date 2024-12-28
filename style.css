@@ -1,0 +1,19 @@
+body{
+    background-color: white;
+    background-image: url('Футболка.PNG');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: contain ;
+}
+
+.main{
+    margin: 0%, auto;
+
+}
+
+.main h1{
+    text-align: center;
+    color: black;
+    margin-top: -5px;
+}
